@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 # Detta är ett projekt!
+=======
+# Detta är ett projekt
+
+printf("projekt"); 
+
+#printa ut projekt
+##branchen
