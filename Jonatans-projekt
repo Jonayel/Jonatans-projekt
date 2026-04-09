@@ -2,5 +2,5 @@ int a = 5; int b = 9
 if(a<b) { 
     printf("a är mindre än b");
 }
-//Här är förändringen med en branch
+//Här är förändringen med en branch, se koden nedan
 printf("Jag ska brancha nu");
