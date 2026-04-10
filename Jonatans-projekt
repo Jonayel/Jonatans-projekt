@@ -1,4 +1,4 @@
-int a = 5; int b = 9
+int a = 5; int b = 12
 if(a<b) { 
     printf("a är mindre än b");
 }
