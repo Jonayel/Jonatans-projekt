@@ -4,3 +4,4 @@ if(a<b) {
 }
 //Här är förändringen med en branch, se koden nedan
 printf("Hejdå");
+//branch!
