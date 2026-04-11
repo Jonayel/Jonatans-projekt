@@ -3,4 +3,4 @@ if(a<b) {
     printf("a är mindre än b");
 }
 //Här är förändringen med en branch, se koden nedan
-printf("Jag ska brancha nu");
+printf("Hejdå");
