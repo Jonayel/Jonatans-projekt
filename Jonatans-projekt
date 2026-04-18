@@ -3,5 +3,5 @@ if(a<b) {
     printf("a är mindre än b");
 }
 //Här är förändringen med en branch, se koden nedan
-printf("Hej!");
+printf("Hejdå!!!!");
 //branch!!!
